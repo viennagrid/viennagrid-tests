@@ -1,4 +1,4 @@
-set(ROOT_DIRECTORY "/home/vdev/git/ViennaGrid")
+set(ROOT_DIRECTORY "/Users/vdev/git/ViennaGrid")
 set(CTEST_SOURCE_DIRECTORY $ENV{VIENNAGRIDPATH})
 set(USED_PROJECTS "VIENNAGRID")
 set(CTEST_BUILD_OPTIONS "")
